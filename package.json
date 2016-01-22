@@ -1,0 +1,21 @@
+{
+    "name": "express-captcha",
+    "description": "Simple captcha middleware for express based upon node-captcha",
+    "version": "1.0.0",
+    "author": "diwyanshu <tomar.diwyanshu@gmail.com>",
+    "dependencies": {
+        "canvas": "1.0.4"
+    },
+    "main": "./captcha.js",
+    "engines": {
+        "node": "5.1.x",
+        "npm": "3.5.x"
+    },
+    "repository":{
+        "type":"git",
+        "url":"git@github.com:diwyanshu/simple-node-captcha.git"
+    },
+    "license":"MIT",
+    "readmeFilename":"README.md"
+}
+
